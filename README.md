@@ -1,7 +1,7 @@
                                   ## Index.html
 ## Paxton_Markus_MIS577
 MIS577 Keller Online
-The purpose of this site is to showcase custom recipes.
+The purpose of this site is to showcase tasty foods from all orgins.
 
 ### May 2018
 This site currently cnsists of this index page and the following Milestone 1 features:
@@ -14,18 +14,18 @@ This site currently cnsists of this index page and the following Milestone 1 fea
 
 4)First page named index.html
 
-5)Title of page is Paxton_Markus_MIS577_Section
+5)Title of page is Paxton_Markus_MIS577
 
-### 
+### History of Food
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-
 
 ```markdown
 Syntax highlighted code block
 
-# Foods
+# Recipes
 ## Drinks
-### Snacks
+### Deserts
 
 - Bulleted
 - List
