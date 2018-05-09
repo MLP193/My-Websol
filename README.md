@@ -34,6 +34,17 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+  <stle>
+    img {
+        width: 100%;
+      }
+    h2 {
+        color: white;
+      }
+  </style>
+  
+  <h2> Resume Image</h2>
+  
+<img src="https://mlp193.github.io/My-Websol/Images/db243fd17963767a512cc1b1e56ed8f9.jpg"> alt="Resume Image">
 [Link](url) and ![Image](src)
 ```
