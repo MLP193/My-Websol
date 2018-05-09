@@ -1,7 +1,7 @@
                                   ## Index.html
 ## Paxton_Markus_MIS577
 MIS577 Keller Online
-The purpose of this site is to showcase tasty foods from all orgins.
+The purpose of this site is to showcase Markus Paxton.
 
 ### May 2018
 This site currently cnsists of this index page and the following Milestone 1 features:
@@ -16,16 +16,16 @@ This site currently cnsists of this index page and the following Milestone 1 fea
 
 5)Title of page is Paxton_Markus_MIS577
 
-### History of Food
+### Resume
 
--
+- 
 
 ```markdown
 Syntax highlighted code block
 
-# Recipes
-## Drinks
-### Deserts
+# Accomplishments
+## Education
+### Career
 
 - Bulleted
 - List
